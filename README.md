@@ -30,29 +30,49 @@
 
 ## 🚀 **About Me**
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" />
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- 🔭 I'm currently working on **Enterprise Spring Boot Applications**
-- 🌱 I'm currently learning **Spring Security 6** and **AI Integration Patterns**
-- 🤝 I'm looking to collaborate on **Open Source Java Projects**
+### 👨‍💻 **What I'm Up To**
+
+- 🔭 Working on **Enterprise Spring Boot Applications**
+- 🌱 Learning **Spring Security 6** and **AI Integration Patterns**
+- 🤝 Open to collaborate on **Open Source Java Projects**
 - 💬 Ask me about **Java, Spring Boot, Microservices, Telegram Bots**
-- 📫 How to reach me: **mosht9876@gmail.com**
+- 📫 Reach me at: **mosht9876@gmail.com**
 - ⚡ Fun fact: **I automate everything that takes more than 5 minutes**
 
+</td>
+<td valign="top" width="50%">
+<br>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" />
+</td>
+</tr>
+</table>
+
 ```java
-public class Altmemy {
-    private static final String[] SKILLS = {
+public class Altmemy implements Developer {
+    
+    private static final String USERNAME = "altmemy";
+    private static final String EMAIL = "mosht9876@gmail.com";
+    
+    private String[] skills = {
         "Java", "Spring Boot", "Spring Security",
         "Microservices", "REST APIs", "JPA/Hibernate"
     };
     
-    private static final String[] INTERESTS = {
+    private String[] interests = {
         "AI & Machine Learning", "Bot Development",
         "Clean Architecture", "DevOps"
     };
     
     public String getCurrentFocus() {
-        return "Building scalable enterprise solutions";
+        return "Building scalable enterprise solutions 🚀";
+    }
+    
+    public boolean isAvailableForFreelance() {
+        return true;
     }
 }
 ```
