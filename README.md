@@ -1,7 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm **Altmemy**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;AI+Enthusiast+%26+Innovator;Telegram+Bot+Creator;Open+Source+Contributor" alt="Typing SVG" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;AI+Enthusiast+%26+Innovator;Telegram+Bot+Creator;Open+Source+Contributor" alt="Typing SVG" />
+
 </div>
 
 <p align="center">
@@ -28,12 +30,13 @@
 
 ## 🚀 **About Me**
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" />
 
 - 🔭 I'm currently working on **Enterprise Spring Boot Applications**
 - 🌱 I'm currently learning **Spring Security 6** and **AI Integration Patterns**
 - 🤝 I'm looking to collaborate on **Open Source Java Projects**
 - 💬 Ask me about **Java, Spring Boot, Microservices, Telegram Bots**
+- 📫 How to reach me: **mosht9876@gmail.com**
 - ⚡ Fun fact: **I automate everything that takes more than 5 minutes**
 
 ```java
@@ -63,7 +66,7 @@ public class Altmemy {
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate,postgres,mysql,docker,kubernetes,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate,postgres,mysql,docker,kubernetes,git&theme=dark&perline=5" />
 </p>
 </details>
 
@@ -73,45 +76,45 @@ public class Altmemy {
 
 <table align="center">
 <tr>
-<td align="center" width="120">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 <br>Java
 </td>
-<td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="65" height="65" />
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" />
 <br>Spring Boot
 </td>
-<td align="center" width="120">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 <br>Docker
 </td>
-<td align="center" width="120">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 <br>MySQL
 </td>
-<td align="center" width="120">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 <br>GitHub
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
 <br>PostgreSQL
 </td>
-<td align="center" width="120">
+<td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
 <br>Postman
 </td>
-<td align="center" width="120">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
 <br>TypeScript
 </td>
-<td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="65" height="65" />
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="65" height="65" />
 <br>Telegram Bots
 </td>
-<td align="center" width="120">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
 <br>AWS
 </td>
@@ -220,14 +223,6 @@ public class Altmemy {
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altmemy&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📫 **Let's Connect**
 
 <div align="center">
@@ -238,7 +233,7 @@ public class Altmemy {
     <img src="https://img.shields.io/badge/LinkedIn-Al--Tamimi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mosht9876@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mosht9876@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
