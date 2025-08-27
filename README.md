@@ -64,7 +64,6 @@ Every line of code I write aims to solve real-world problems and automate comple
 ### 🤝 **Let's Connect**
 - 💼 Open for **freelance projects** and **consultancy**
 - 🌟 Passionate about **open source** contributions
-- 📧 Reach me at: **mosht9876@gmail.com**
 - 💬 Ask me about **Java, Spring Boot, Microservices, or Bot Development**
 
 > 💭 *"I automate everything that takes more than 5 minutes"*
