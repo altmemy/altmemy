@@ -30,52 +30,44 @@
 
 ## 🚀 **About Me**
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div align="center">
 
-### 👨‍💻 **What I'm Up To**
+**`Software Developer | Spring Boot Specialist | Bot Creator`**
 
-- 🔭 Working on **Enterprise Spring Boot Applications**
-- 🌱 Learning **Spring Security 6** and **AI Integration Patterns**
-- 🤝 Open to collaborate on **Open Source Java Projects**
-- 💬 Ask me about **Java, Spring Boot, Microservices, Telegram Bots**
-- 📫 Reach me at: **mosht9876@gmail.com**
-- ⚡ Fun fact: **I automate everything that takes more than 5 minutes**
+<p align="center">
+I'm a passionate backend developer focused on building robust and scalable enterprise solutions. 
+Every line of code I write aims to solve real-world problems and automate complex workflows.
+</p>
 
-</td>
-<td valign="top" width="50%">
-<br>
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" />
-</td>
-</tr>
-</table>
+</div>
 
-```java
-public class Altmemy implements Developer {
-    
-    private static final String USERNAME = "altmemy";
-    private static final String EMAIL = "mosht9876@gmail.com";
-    
-    private String[] skills = {
-        "Java", "Spring Boot", "Spring Security",
-        "Microservices", "REST APIs", "JPA/Hibernate"
-    };
-    
-    private String[] interests = {
-        "AI & Machine Learning", "Bot Development",
-        "Clean Architecture", "DevOps"
-    };
-    
-    public String getCurrentFocus() {
-        return "Building scalable enterprise solutions 🚀";
-    }
-    
-    public boolean isAvailableForFreelance() {
-        return true;
-    }
-}
-```
+<div align="center">
+  
+[![Java](https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=openjdk)](https://github.com/altmemy)
+[![Spring](https://img.shields.io/badge/Spring_Boot-Advanced-green?style=for-the-badge&logo=spring)](https://github.com/altmemy)
+[![Microservices](https://img.shields.io/badge/Microservices-Architect-blue?style=for-the-badge&logo=kubernetes)](https://github.com/altmemy)
+
+</div>
+
+### 🎯 **Current Focus**
+- Building **Enterprise Spring Boot Applications** with clean architecture
+- Mastering **Spring Security 6** and modern authentication patterns
+- Implementing **AI Integration** in Java applications
+- Creating intelligent **Telegram Bots** for automation
+
+### 💡 **Core Expertise**
+- **Backend Development:** Java, Spring Boot, Spring Security, JPA/Hibernate
+- **Architecture:** Microservices, REST APIs, Clean Architecture, Design Patterns
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps:** Docker, Kubernetes, CI/CD, AWS
+
+### 🤝 **Let's Connect**
+- 💼 Open for **freelance projects** and **consultancy**
+- 🌟 Passionate about **open source** contributions
+- 📧 Reach me at: **mosht9876@gmail.com**
+- 💬 Ask me about **Java, Spring Boot, Microservices, or Bot Development**
+
+> 💭 *"I automate everything that takes more than 5 minutes"*
 
 ---
 
